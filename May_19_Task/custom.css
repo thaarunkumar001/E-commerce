@@ -1,0 +1,15 @@
+.content {
+  width: 80%;
+  margin: 5% 10%;
+  border: 0.5px solid black;
+  padding: 2%;
+  border-radius: 0.5rem;
+}
+input {
+  margin: 12px 0;
+}
+.button {
+  background-color: green;
+  color: white;
+  border-radius: 0.5rem;
+}
